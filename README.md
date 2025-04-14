@@ -10,10 +10,10 @@ A simple, Twitter-like web application built with Django. This project lets user
 6. Basic CRUD Operations: Full Create, Read, Update, and Delete functionality for tweets
 
 Tech Stack:
-• Backend: Django, Python
-• Frontend: HTML5, CSS3, Bootstrap
-• Database: SQLite (default, can be switched to PostgreSQL/MySQL)
-• Other Tools: Django Admin, Django Media handling for image uploads
+1. Backend: Django, Python
+2. Frontend: HTML5, CSS3, Bootstrap
+3. Database: SQLite (default, can be switched to PostgreSQL/MySQL)
+4. Other Tools: Django Admin, Django Media handling for image uploads
 
 Before starting the project, make sure Django is installed on your system.
 Getting Started
